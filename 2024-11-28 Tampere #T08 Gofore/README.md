@@ -2,7 +2,7 @@
 
 Sponsored by
 
-![Gofore](https://upload.wikimedia.org/wikipedia/fi/b/bf/Gofore_logo_orange_360.png
+![Gofore](https://upload.wikimedia.org/wikipedia/fi/b/bf/Gofore_logo_orange_360.png)
 
 ## 🚀 Presentations 
 ### Ville Åberg, Cloud Specialist, Gofore
