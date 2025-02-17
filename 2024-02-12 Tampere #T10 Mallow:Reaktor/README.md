@@ -10,5 +10,5 @@ and Reaktor
 ### Petri Nissi, Azure Architect, Mallow
 Azure Resource Inventory
 
-### AToni Ylenius, Expert Developer, OP
+### Toni Ylenius, Expert Developer, OP
 Using AKS to enable developer experience and regulatory compliance
