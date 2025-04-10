@@ -9,4 +9,4 @@ Sponsored by
 Azure Database for PostgreSQL Flexible Server - Overview and lessons learnt from an admin perspective
 
 ### Anssi Pannula, Cloud Architect, Nortal
-OhMyLinkki: Azure AI-Powered Real-Time Bus Tracking Assi
+OhMyLinkki: Azure AI-Powered Real-Time Bus Tracking Assistant
