@@ -1,4 +1,4 @@
-# Tampere #T13 April Meetup 2025-08-24 
+# Tampere #T13 August Meetup 2025-08-24 
 
 Sponsored by
 
